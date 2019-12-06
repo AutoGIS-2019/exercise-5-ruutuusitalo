@@ -14,8 +14,8 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]("Walking distance")
- - [https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png]("Walking distance")
+ - [My static map](Walking distance)
+ - [Link to static map][https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png]
  Link to static map (https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png)
 ```
 [Link to static map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png)
@@ -23,7 +23,7 @@ Edit the text below and add links to the maps that you have created:
 
  - [My interactive map]("Transport stations")
  - [https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map.html]("Transport stations")
- Link to interactive map ()
+ Link to interactive map (https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map.html)
 ```
 [Link to interactive map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map.html)
 ```
