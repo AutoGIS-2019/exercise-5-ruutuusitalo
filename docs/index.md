@@ -12,15 +12,16 @@ Here is an example how to do it in MarkDown for user VuokkoH:
 
 ## My maps
 
+
 Edit the text below and add links to the maps that you have created:
 
- - [Link to static map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png)
+ - [Link to static map](https://github.com/AutoGIS-2019/exercise-5-ruutuusitalo/blob/master/docs/map1.png)
 
 ```
 [Link to static map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map1.png)
 ```
 
- - [Link to interactive map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map.html)
+ - [Link to interactive map](https://github.com/AutoGIS-2019/exercise-5-ruutuusitalo/blob/master/docs/map.html)
 
 ```
 [Link to interactive map](https://autogis-2019.github.io/exercise-5-ruutuusitalo/docs/map.html)
