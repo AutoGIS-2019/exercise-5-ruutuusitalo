@@ -85,3 +85,18 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
 
 
+
+
+## Grading: 9.5 / 20
+### Problem 1 - 5.0 / 8.0
+ - Simple and clear visualization, sometimes less is more! :) However, too light on the *analysis* side and more information is needed to understand what the symbols are and where the walking distance is to, if one is not familiar with our exercises. Also the data source should be credited!
+
+### Problem 2 - 2.5 / 10.0
+ - What is the phenomenon this map depicts?
+
+### Problem 3 - 2.0 / 2.0
+ - Successfully shared the maps!
+
+Cheers!
+
+Sakke, 2020-01-13
